@@ -16,8 +16,8 @@ outputs/   # גרפים וקבצי פלט
 ## 🚀 התקדמות
 - [x] יום 1: סביבת עבודה
 - [x] יום 2: Git & GitHub
-- [ ] יום 3: Claude Code + Cursor
-- [ ] ימים 4-5: Numpy
+- [x] יום 3: Claude Code + Cursor
+- [x] ימים 4-5: Numpy
 - [ ] ימים 6-7: Pandas
 - [ ] ימים 8-9: ויזואליזציה
 - [ ] ימים 10-11: פייתון מתקדם
