@@ -1,0 +1,304 @@
+{
+  "tracks": [
+    {
+      "name": "Song 0",
+      "artist": {
+        "id": 1,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.64,
+        "energy": 0.23
+      }
+    },
+    {
+      "name": null,
+      "artist": {
+        "id": 2,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": 2020
+      },
+      "features": {
+        "danceability": 0.51,
+        "energy": 0.46
+      }
+    },
+    {
+      "name": "Song 2",
+      "artist": {
+        "id": 3,
+        "name": "Paul"
+      },
+      "album": {
+        "title": "Album X",
+        "year": 2018
+      },
+      "features": {
+        "danceability": 0.53,
+        "energy": null
+      }
+    },
+    {
+      "name": "Song 3",
+      "artist": {
+        "id": 4,
+        "name": "Paul"
+      },
+      "album": {
+        "title": null,
+        "year": null
+      },
+      "features": {
+        "danceability": 0.47,
+        "energy": 0.7
+      }
+    },
+    {
+      "name": "Song 4",
+      "artist": {
+        "id": 5,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album X",
+        "year": 2021
+      },
+      "features": {
+        "danceability": null,
+        "energy": 0.65
+      }
+    },
+    {
+      "name": "Song 5",
+      "artist": {
+        "id": 6,
+        "name": "George"
+      },
+      "album": {
+        "title": null,
+        "year": 2022
+      },
+      "features": {
+        "danceability": null,
+        "energy": 0.42
+      }
+    },
+    {
+      "name": "Song 6",
+      "artist": {
+        "id": 7,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Y",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.78,
+        "energy": 0.73
+      }
+    },
+    {
+      "name": "Song 7",
+      "artist": {
+        "id": 8,
+        "name": "Ringo"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": 2019
+      },
+      "features": {
+        "danceability": 0.86,
+        "energy": 0.88
+      }
+    },
+    {
+      "name": "Song 8",
+      "artist": {
+        "id": 9,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album X",
+        "year": null
+      },
+      "features": {
+        "danceability": null,
+        "energy": 0.4
+      }
+    },
+    {
+      "name": "Song 9",
+      "artist": {
+        "id": 10,
+        "name": "Ringo"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.79,
+        "energy": 0.76
+      }
+    },
+    {
+      "name": "Song 10",
+      "artist": {
+        "id": 11,
+        "name": "Paul"
+      },
+      "album": {
+        "title": "Album X",
+        "year": 2018
+      },
+      "features": {
+        "danceability": null,
+        "energy": 0.88
+      }
+    },
+    {
+      "name": "Song 11",
+      "artist": {
+        "id": 12,
+        "name": "Paul"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.65,
+        "energy": 0.94
+      }
+    },
+    {
+      "name": "Song 12",
+      "artist": {
+        "id": 13,
+        "name": "Paul"
+      },
+      "album": {
+        "title": null,
+        "year": null
+      },
+      "features": {
+        "danceability": 0.55,
+        "energy": 0.27
+      }
+    },
+    {
+      "name": "Song 13",
+      "artist": {
+        "id": 14,
+        "name": "Paul"
+      },
+      "album": {
+        "title": "Album Y",
+        "year": 2021
+      },
+      "features": {
+        "danceability": 0.45,
+        "energy": 0.21
+      }
+    },
+    {
+      "name": "Song 14",
+      "artist": {
+        "id": 15,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Z",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.31,
+        "energy": 0.67
+      }
+    },
+    {
+      "name": "Song 15",
+      "artist": {
+        "id": 16,
+        "name": "George"
+      },
+      "album": {
+        "title": null,
+        "year": 2022
+      },
+      "features": {
+        "danceability": 0.72,
+        "energy": 0.26
+      }
+    },
+    {
+      "name": "Song 16",
+      "artist": {
+        "id": 17,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Y",
+        "year": 2020
+      },
+      "features": {
+        "danceability": 0.41,
+        "energy": 0.34
+      }
+    },
+    {
+      "name": "Song 17",
+      "artist": {
+        "id": 18,
+        "name": "Ringo"
+      },
+      "album": {
+        "title": "Album X",
+        "year": 2021
+      },
+      "features": {
+        "danceability": 0.42,
+        "energy": 0.63
+      }
+    },
+    {
+      "name": "Song 18",
+      "artist": {
+        "id": 19,
+        "name": "George"
+      },
+      "album": {
+        "title": "Album Y",
+        "year": null
+      },
+      "features": {
+        "danceability": 0.88,
+        "energy": 0.77
+      }
+    },
+    {
+      "name": "Song 19",
+      "artist": {
+        "id": 20,
+        "name": "Paul"
+      },
+      "album": {
+        "title": null,
+        "year": null
+      },
+      "features": {
+        "danceability": 0.76,
+        "energy": 0.43
+      }
+    }
+  ]
+}
