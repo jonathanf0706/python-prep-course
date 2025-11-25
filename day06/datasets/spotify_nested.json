@@ -1,0 +1,34 @@
+{
+  "tracks": [
+    {
+      "name": "Song A",
+      "artist": {
+        "id": 1,
+        "name": "John"
+      },
+      "album": {
+        "title": "Album X",
+        "year": 2020
+      },
+      "features": {
+        "danceability": 0.8,
+        "energy": 0.6
+      }
+    },
+    {
+      "name": "Song B",
+      "artist": {
+        "id": 2,
+        "name": "Paul"
+      },
+      "album": {
+        "title": "Album Y",
+        "year": 2021
+      },
+      "features": {
+        "danceability": 0.7,
+        "energy": 0.5
+      }
+    }
+  ]
+}
